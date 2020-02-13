@@ -13,11 +13,15 @@ module.exports = {
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
+        url: `https://twitter.com/ebaljnyam`,
       },
       {
         name: `github`,
-        url: `https://github.com/gatsbyjs`,
+        url: `https://github.com/baljnyam`,
+      },
+      {
+        name: `linkedin`,
+        url: `https://www.linkedin.com/in/baljnyam/`,
       },
     ],
   },
