@@ -7,21 +7,17 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `Blog`,
-    author: `Enkhbat Baljnyam`,
-    description: `Web & Software Development, Entrepreneurship, Data science`,
+    title: `My Blog Title`,
+    author: `My Name`,
+    description: `My site description...`,
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/ebaljnyam`,
+        url: `https://twitter.com/gatsbyjs`,
       },
       {
         name: `github`,
-        url: `https://github.com/baljnyam`,
-      },
-      {
-        name: `linkedin`,
-        url: `https://www.linkedin.com/in/baljnyam/`,
+        url: `https://github.com/gatsbyjs`,
       },
     ],
   },
